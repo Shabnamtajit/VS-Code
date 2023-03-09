@@ -48,6 +48,16 @@ Major features-Intellisense:
    2. div.(class_name): will create a Divison tag with class.
    3. Cascadia Code: user efficient friendly font style.
    4.word wrap: auto-Aligning the paragraphs.
+   
+   Better Extensions
+   
+   1.Prettier: This extension formats the code when saved.
+   2.Better comments: This will highlight the commands in different colors.
+   3.Quokka.js: This will provide Javascript playground and TypeScript  for the user.
+   4.Live Server: Live reload feature for dynamic content.
+   5.Pola Code: will allow the user to take image of the code.
+   6.Bracket Pair Colorizer: will give color to all bracket pairs.
+   7.Cloak: this extension will allow the user to present on stage,stream on Twitch or Youtube.
              
              
              
