@@ -114,14 +114,14 @@ Major features-Intellisense:
            7.Toggle
              Ctrl+Shift tag
              
-             Better User experiences settings:
+                                             Better User experiences settings:
              
    1. "!"-emmet to create Doctype html code, with in-Built plugin expanding abbreviations and snippets.
    2. div.(class_name): will create a Divison tag with class.
    3. Cascadia Code: user efficient friendly font style.
    4.word wrap: auto-Aligning the paragraphs.
    
-   Better Extensions
+                                                     Better Extensions
    
    1.Prettier: This extension formats the code when saved.
    2.Better comments: This will highlight the commands in different colors.
