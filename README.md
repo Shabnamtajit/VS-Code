@@ -70,12 +70,14 @@ Major features
              
              
 
-Visual Studio Code-code editor for refining and optimized for building and debugging.
+Visual Studio Code-
+                   code editor for refining and optimized for building and debugging.
                    Free platform.
                    Light weight text editor.
                    in-built Electron.js to build web applications.
                    Two versions: Stable edition(professional coders) and insider edition(early adopters).
-Major features-Intellisense:
+Major features-
+               Intellisense:
                    syntax highlighting and autocompletion of variable types , function definition , imported modules.
                    
               -debug:
@@ -89,6 +91,7 @@ Major features-Intellisense:
                   
                   
                   USEFUL SHORTCUTS:
+                  
            1.Opening And Closing bar     
              Mac- Command+B
              Windows- Ctrl+B
