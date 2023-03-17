@@ -25,8 +25,10 @@ Major features
                   
                   
                                                                USEFUL SHORTCUTS:
+                                                               
           
-           1.Opening And Closing bar     
+           1.Opening And Closing bar  
+           
              Mac- Command+B
              Windows- Ctrl+B
              
